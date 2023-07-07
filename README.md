@@ -1,27 +1,27 @@
 # NTI_AI_Course
-Required tasks from NTI instructors
+Required tasks from NTI instructors<br />
 ## ML
 ### Diabetes Data Set
 This data set done by: 
-  KNN\n
-  SVM
-  Decision Tree
-  Random Forest
-  Boost Classifier
-  Logistic Regression
-  Naive Bayes
-  
-### Breast Cancer Data Set
-This data set done by: 
-  KNN
-  SVM
-  Decision Tree
-  Random Forest
-  Boost Classifier
-  Logistic Regression
-  Naive Bayes
-
-### Spam Email data Set
-This data set done by: 
-  Naive Bayes
+  KNN <br />
+  SVM <br />
+  Decision Tree<br />
+  Random Forest<br />
+  Boost Classifier<br />
+  Logistic Regression<br />
+  Naive Bayes<br />
+  <br />
+### Breast Cancer Data Set<br />
+This data set done by: <br />
+  KNN<br />
+  SVM<br />
+  Decision Tree<br />
+  Random Forest<br />
+  Boost Classifier<br />
+  Logistic Regression<br />
+  Naive Bayes<br />
+<br />
+### Spam Email data Set<br />
+This data set done by: <br />
+  Naive Bayes<br />
   SVM
