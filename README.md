@@ -3,7 +3,7 @@ Required tasks from NTI instructors
 ## ML
 ### Diabetes Data Set
 This data set done by: 
-  KNN
+  KNN\n
   SVM
   Decision Tree
   Random Forest
